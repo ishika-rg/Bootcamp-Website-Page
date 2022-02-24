@@ -22,6 +22,10 @@ Users are able to:
 - View the optimal layout for the site depending on their device's screen size
 - See active states for all interactive elements on the page
 - View modal form on button click
+
+## Links
+♦ [Repository Link](https://github.com/ishika-rg/Bootcamp-Website-Page)
+♦ [Live Link](https://ishika-rg.github.io/Bootcamp-Website-Page/)
 ## Output Images 
 
 👉 Desktop Design
